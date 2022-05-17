@@ -16,11 +16,11 @@ xmlns="http://www.tei-c.org/ns/1.0">
 
 <address> 
 
-<addrline>ATTN: Professor Burns</addrline> 
+<addrline>ATTN: Professor Brown</addrline> 
 
 <addrline> 
 
-<name>Dartmouth University</name> 
+<name>Royal Holloway, University of London</name> 
 
 </addrline> 
 
@@ -28,11 +28,11 @@ xmlns="http://www.tei-c.org/ns/1.0">
 
 <dateline> 
 
-<date when="1998-03-28"> 28th March 1998</date> 
+<date when="2022-03-28"> 28th March 2022</date> 
 
 </dateline> 
 
-<salute> Dear Prof. Burns </salute> 
+<salute> Dear Prof. Brown </salute> 
 
 </opener> 
 
